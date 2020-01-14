@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelcoChecker.Library", "TelcoChecker.Library\TelcoChecker.Library.csproj", "{EF3BB54F-E126-4F34-8C2D-978F572FC2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelcoChecker.Console", "TelcoChecker.Console\TelcoChecker.Console.csproj", "{72889D6F-7EDB-4903-96C3-82F6D37C3143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3BB54F-E126-4F34-8C2D-978F572FC2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3BB54F-E126-4F34-8C2D-978F572FC2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3BB54F-E126-4F34-8C2D-978F572FC2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3BB54F-E126-4F34-8C2D-978F572FC2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72889D6F-7EDB-4903-96C3-82F6D37C3143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72889D6F-7EDB-4903-96C3-82F6D37C3143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72889D6F-7EDB-4903-96C3-82F6D37C3143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72889D6F-7EDB-4903-96C3-82F6D37C3143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D7C61B-F176-43D0-B20E-8966867FC711}
+	EndGlobalSection
+EndGlobal
